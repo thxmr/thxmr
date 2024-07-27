@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Ipaoo CMS Development<br>🌱 Learning React, Vue.js and more
+🔭 Working at ALTEN as Full-stack Engineer Consultant<br>🌱 Learning everyting I can
 
 
 ## 🌐 Socials:
